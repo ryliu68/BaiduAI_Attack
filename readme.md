@@ -7,4 +7,4 @@
 2、相关模型参数需要使用百度官方提供的模型代码自行训练。
 
 ##
-更多信息请查看[write up](write up.pdf)
+更多信息请查看[write up](https://github.com/LRY0111/BaiduAI_Attack/blob/master/write%20up.pdf)
